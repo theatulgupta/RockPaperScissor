@@ -89,7 +89,3 @@ fun ObjectButton(
             fontSize = 12.sp)
     }
 }
-
-{
-
-}
